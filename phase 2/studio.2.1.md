@@ -1,1 +1,3 @@
-second phase 
+# Visual Studio 2.1: Exploring Medium Through Prompt Variation
+## Prompt A- watercolor 
+Create a watercolor painting of a mexican boxer standing alone in the center of a boxing ring after a match. With his opponent still laying on the floor  .Show the boxer from the front, wearing red and  white gloves, with three ring ropes visible behind him and bright arena lights above with his parents visably cherring from the stands . Keep the boxer as the focal point through emphasis and contrast. Use diagonal lines in the ropes and shadows to guide the viewer’s eye toward him, and use soft texture and layered colors to create a tired but determined mood. Make it look painted on textured watercolor paper with a brush, using transparent washes, watery layering, and softly bleeding edges. No text or lettering.
